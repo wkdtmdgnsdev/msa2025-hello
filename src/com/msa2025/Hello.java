@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("안녕하세요~~~");
 		System.out.println("안녕하세요~~~");
 		System.out.println("브라우저에서 수정>> 안녕하세요~~~");
+		System.out.println("로컬에서 수정>> 안녕하세요~~~");
 	}
 
 }
